@@ -1,0 +1,16 @@
+{
+    "name": "myapp/ecommerce",
+    "description": "Ecommerce PHP application",
+    "autoload":{
+        "psr-4":{
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ludoguenet",
+            "email": "ludovicguenet@gmx.com"
+        }
+    ],
+    "require": {}
+}
